@@ -1,5 +1,5 @@
 # sdi2200259.github.io
-byte0: treasure
+#byte0: treasure
 byte1: a) ssh byte1@ip-172-31-37-131
        b) enter the password
        c) man supercalifragilisticexpialidocious // θα μας εμφανίσει τι κάνει αυτή εντολή
